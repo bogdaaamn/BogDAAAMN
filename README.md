@@ -1,4 +1,4 @@
-![bogdan covrig gif](/_media/hi.gif)
+![bogdan covrig gif](https://github.com/BogDAAAMN/BogDAAAMN/blob/master/_media/hi.gif)
 
 <!--
 **BogDAAAMN/BogDAAAMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
