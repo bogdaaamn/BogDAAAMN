@@ -6,7 +6,7 @@
     <img src="https://github.com/BogDAAAMN/BogDAAAMN/blob/master/_media/hi.gif" alt="Bogdan Covrig. reserach assistant. web developer. technolawgeek">
  </p>
 
-# 👋🏻👋🏻
+### 👋🏻👋🏻
 
 - ✏️ Reserach Assistant at [Maasticht Law&Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) @[UM](https://twitter.com/MaastrichtU). Currently interested in privacy and web transparency.  
 - 🗄️ Building data infrastructures supporting legal research
