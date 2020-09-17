@@ -6,12 +6,15 @@
     <img src="https://github.com/BogDAAAMN/BogDAAAMN/blob/master/_media/hi.gif" alt="Bogdan Covrig. reserach assistant. web developer. technolawgeek">
  </p>
 
-### 👋🏻👋🏻
+### Hey 👋🏻👋🏻
 
-- ✏️ Reserach Assistant at [Maasticht Law&Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) @[UM](https://twitter.com/MaastrichtU). Currently interested in privacy and web transparency.  
+- ✏️ Reserach Assistant at [Maasticht Law&Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) @[UM](https://twitter.com/MaastrichtU). Currently interested in privacy and web transparency.
+- 📖 Applied Computer Science student at [Saxion University of Applied Sciences](https://twitter.com/SaxionUAS)
 - 🗄️ Building data infrastructures supporting legal research
 - 🆘 Making my way around web development
 - 🏗️ Sometimes automating boring stuff
+
+### Blog
 
 <!--
 **BogDAAAMN/BogDAAAMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
