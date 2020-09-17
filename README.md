@@ -17,6 +17,10 @@
 ### Blog
 
 <!-- DEV:START -->
+- [Content Sentiment Analysis: Explore the emotion score of your content with Google API](https://dev.to/bogdaaamn/content-sentiment-analysis-explore-the-emotion-score-of-your-content-with-google-api-2dg0)
+- [Contribute to Forem 🌱 in Gitpod on your own fork](https://dev.to/bogdaaamn/contribute-to-forem-in-gitpod-on-your-own-fork-1g1o)
+- [Getting started with Google Cloud Functions on Firebase](https://dev.to/bogdaaamn/getting-started-with-google-cloud-functions-on-firebase-3g29)
+- [Run your Node.js application on a headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn)
 <!-- DEV:END -->
 
 <!--
