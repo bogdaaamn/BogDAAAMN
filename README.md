@@ -45,7 +45,7 @@
 [Read more](https://scholar.google.com/citations?user=Q_iCTUEAAAAJ&hl=en&oi=ao) ➡️ ➡️
 
 <p align="center"> 
-    <i>Thanks <a href="https://github.com/gautamkrishnar">@gautamkrishnar</a> for creating the <a href="https://github.com/gautamkrishnar/blog-post-workflow/tree/1.2.5">blog-post-workflow</a> action. Social badges from <a href="https://shields.io/">shields.io</a></i>
+    <i>💕 Thanks <a href="https://github.com/gautamkrishnar">@gautamkrishnar</a> for creating the <a href="https://github.com/gautamkrishnar/blog-post-workflow/tree/1.2.5">blog-post-workflow</a> action. Social badges from <a href="https://shields.io/">shields.io</a></i>
 </p>
 
 <!--
