@@ -2,8 +2,12 @@
 ![bogdan covrig gif](https://github.com/BogDAAAMN/BogDAAAMN/blob/master/_media/hi.gif)
 -->
 
- <p align="center"> 
+<!--  <p align="center"> 
     <img src="https://github.com/BogDAAAMN/BogDAAAMN/blob/master/_media/hi.gif" alt="Bogdan Covrig. reserach assistant. web developer. technolawgeek">
+ </p> -->
+ 
+ <h3 align="center"> 
+    Hey 👋🏻👋🏻 I'm Bogdan
  </p>
  
 <p align="center">
@@ -15,32 +19,36 @@
 </p>
 
 
-### Hey 👋🏻👋🏻
+### About me
 
-- ✏️ Reserach Assistant at [Maasticht Law&Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) @[UM](https://twitter.com/MaastrichtU). Currently interested in privacy and web transparency.
-- 📖 Applied Computer Science student at [Saxion University of Applied Sciences](https://twitter.com/SaxionUAS)
+- ✏️ Software Engineer (Reserach Assistant) at [Maasticht Law&Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) @[UM](https://twitter.com/MaastrichtU)
+- 📖 Applied Computer Science Graduate at [Saxion University of Applied Sciences](https://twitter.com/SaxionUAS)
 - 🗄️ Building data infrastructures supporting legal research
 - 🆘 Making my way around web development
 - 🏗️ Sometimes automating boring stuff
 
+### GitHub Actions
+
+- [Code of Conduct Notifier GitHub Action](https://github.com/BogDAAAMN/code-of-conduct-notifier-action): Remind the members of your community of the Code of Conduct 
+- [Deploy to Deta Micro GitHub Action](https://github.com/BogDAAAMN/deta-deploy-action): Deploy your project on Deta Micro
+- [Copy Sentiment Analysis GitHub Action](https://github.com/BogDAAAMN/copy-sentiment-analysis): Run sentiment analysis over the text of your website using Google API
+
 ### Blog
 
-<!-- DEV:START -->
+- [Code of Conduct Notifier Action: 2021 GitHub Actions Hackathon](https://dev.to/bogdaaamn/code-of-conduct-notifier-action-2021-github-actions-hackathon-567n)
 - [Content Sentiment Analysis: Explore the emotion score of your content with Google API](https://dev.to/bogdaaamn/content-sentiment-analysis-explore-the-emotion-score-of-your-content-with-google-api-2dg0)
 - [Contribute to Forem 🌱 in Gitpod on your own fork](https://dev.to/bogdaaamn/contribute-to-forem-in-gitpod-on-your-own-fork-1g1o)
 - [Getting started with Google Cloud Functions on Firebase](https://dev.to/bogdaaamn/getting-started-with-google-cloud-functions-on-firebase-3g29)
 - [Run your Node.js application on a headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn)
-<!-- DEV:END -->
+
 
 [Read more](https://dev.to/bogdaaamn) ➡️ ➡️
 
 ### Publications
 
-<!-- SCHOLAR:START -->
 - [Return of the AI: An Analysis of Legal Research on Artificial Intelligence Using Topic Modeling](http://ceur-ws.org/Vol-2645/paper1.pdf)
   
   _C Rosca, **B Covrig**, C Goanta, G van Dijck, G Spanakis_ in [_Proceedings of the Natural Legal Language Processing Workshop 2020_](http://ceur-ws.org/Vol-2645/) 
-<!-- SCHOLAR:END -->
 
 [Read more](https://scholar.google.com/citations?user=Q_iCTUEAAAAJ&hl=en&oi=ao) ➡️ ➡️
 
