@@ -29,9 +29,15 @@
 
 ### GitHub Actions
 
-- [Code of Conduct Notifier GitHub Action](https://github.com/BogDAAAMN/code-of-conduct-notifier-action): Remind the members of your community of the Code of Conduct 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BogDAAAMN&repo=deta-deploy-action)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BogDAAAMN&repo=copy-sentiment-analysis)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BogDAAAMN&repo=code-of-conduct-notifier-action)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- - [Code of Conduct Notifier GitHub Action](https://github.com/BogDAAAMN/code-of-conduct-notifier-action): Remind the members of your community of the Code of Conduct 
 - [Deploy to Deta Micro GitHub Action](https://github.com/BogDAAAMN/deta-deploy-action): Deploy your project on Deta Micro
-- [Copy Sentiment Analysis GitHub Action](https://github.com/BogDAAAMN/copy-sentiment-analysis): Run sentiment analysis over the text of your website using Google API
+- [Copy Sentiment Analysis GitHub Action](https://github.com/BogDAAAMN/copy-sentiment-analysis): Run sentiment analysis over the text of your website using Google API -->
 
 ### Blog
 
