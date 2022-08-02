@@ -21,10 +21,10 @@
 
 ### About me
 
-- ✏️ Software Engineer (Reserach Assistant) at [Maasticht Law&Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab) @[UM](https://twitter.com/MaastrichtU)
-- 📖 Applied Computer Science Graduate at [Saxion University of Applied Sciences](https://twitter.com/SaxionUAS)
-- 🗄️ Building data infrastructures supporting legal research
-- 🆘 Making my way around web development
+- 💻 Software Engineer at [DEPT®](https://www.deptagency.com/nl-nl/)
+- 💕 Member and A/V stuff at [Virtual Coffee](https://virtualcoffee.io/)
+- 🧨 Working with Typescript, React and Node. Experimenting with Remix, Next.js, NestJS and Supabase 
+- 🗄️ Building CMS and doing data modelling
 - 🏗️ Sometimes automating boring stuff
 
 ### GitHub Actions
